@@ -1,0 +1,1 @@
+puts "jijijjjjj".include?("j")
